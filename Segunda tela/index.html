@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#21171b">
+  <meta name="description" content="Uma pequena história feita para alguém especial.">
+  <title>Nossa história ❤️</title>
+  <link rel="icon" type="image/png" href="src/img/icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/style.css">
+  <link rel="stylesheet" href="src/css/animate-on-scroll.css">
+  <link rel="stylesheet" href="src/css/musica.css">
+</head>
+<body>
+  <main>
+    <section class="hero" aria-labelledby="titulo-principal">
+      <img class="cover-img" src="src/img/capa.png" alt="Fundo decorativo romântico">
+      <h1 id="titulo-principal">Nossa<br>história . Sua melhor escolha .</h1>
+    </section>
+
+    <section>
+      <img class="animate from-left" src="src/img/momento-1.png" alt="Espaço para uma foto especial de vocês">
+      <div class="animate from-right">
+        <h2>Desde o começo</h2>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </section>
+
+    <section>
+      <img class="animate from-right" src="src/img/momento-2.png" alt="Espaço para outra foto especial">
+      <div class="animate from-left">
+        <h2>Os pequenos momentos</h2>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </section>
+
+    <section>
+      <img class="animate from-left" src="src/img/momento-3.png" alt="Espaço para uma terceira foto especial">
+      <div class="animate from-right">
+        <h2>E ainda tem muito pela frente</h2>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </section>
+  </main>
+
+  <div class="music-player" aria-label="Controle de música">
+    <div class="music-info">
+      <span class="music-label">Playlist</span>
+      <span class="music-track" id="music-track" aria-live="polite">1/4 · Música 1</span>
+    </div>
+    <div class="music-actions">
+      <button class="music-btn" id="music-toggle" type="button" aria-pressed="false">▶ Tocar</button>
+      <button class="music-btn music-next" id="music-next" type="button" aria-label="Tocar próxima música">Próxima ⏭</button>
+    </div>
+    <audio id="background-music" preload="metadata"></audio>
+  </div>
+
+  <footer>
+    Feito com carinho. <a href="/index.html">Voltar ao início</a>
+  </footer>
+
+  <script src="src/js/animate-on-scroll.js"></script>
+  <script src="src/js/script.js"></script>
+</body>
+</html>
