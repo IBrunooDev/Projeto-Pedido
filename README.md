@@ -2,6 +2,14 @@
 
 <img width="1092" height="477" alt="image" src="https://github.com/user-attachments/assets/9ba25e5c-6d58-45e2-89da-5aa5a5a0e4bd" />
 
+## Acesse o projeto
+
+| Plataforma | Link |
+| --- | --- |
+| Site | [projeto-lovee](https://projeto-lovee.netlify.app/) |
+| GitHub | [github.com/IBrunooDev](https://github.com/IBrunooDev) |
+| LinkedIn | [linkedin.com/in/brunocarus](https://www.linkedin.com/in/brunocarus/) |
+| Instagram | [instagram.com/ibrunoodev](https://www.instagram.com/ibrunoodev/) |
 
 > Uma experiência web romântica, interativa e responsiva, desenvolvida
 > com HTML5, CSS3 e JavaScript puro.
