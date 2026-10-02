@@ -6,7 +6,7 @@
 
 | Plataforma | Link |
 | --- | --- |
-| Site | [projeto-lovee](https://projeto-lovee.netlify.app/) |
+| Site | [https://projeto-lovee.netlify.app/](https://projeto-lovee.netlify.app/) |
 | GitHub | [github.com/IBrunooDev](https://github.com/IBrunooDev) |
 | LinkedIn | [linkedin.com/in/brunocarus](https://www.linkedin.com/in/brunocarus/) |
 | Instagram | [instagram.com/ibrunoodev](https://www.instagram.com/ibrunoodev/) |
