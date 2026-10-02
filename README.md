@@ -1,6 +1,7 @@
 # ❤️ Projeto Love
 
-![Capa do projeto](Segunda%20tela/src/img/capa.png)
+<img width="1092" height="477" alt="image" src="https://github.com/user-attachments/assets/9ba25e5c-6d58-45e2-89da-5aa5a5a0e4bd" />
+
 
 > Uma experiência web romântica, interativa e responsiva, desenvolvida
 > com HTML5, CSS3 e JavaScript puro.
@@ -339,23 +340,14 @@ o site será hospedado.
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
 
-Este projeto não possui uma licença de código aberto definida
-atualmente.
 
-Caso seja disponibilizado publicamente para reutilização, adicione um
-arquivo `LICENSE` com as regras de uso, modificação e distribuição.
+- ## Links
 
-------------------------------------------------------------------------
+- [GitHub](https://github.com/IBrunooDev)
+- [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
+- [Instagram](https://www.instagram.com/IBrunooDev/)
+---
 
-## ❤️ Créditos
-
-Desenvolvido com:
-
-**HTML5 + CSS3 + JavaScript**
-
-Um projeto simples, responsivo e personalizado para transformar código
-em uma experiência especial.
-
-**Feito com carinho ❤️**
+Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
+© 2026 IBrunooDev. Todos os direitos reservados.
