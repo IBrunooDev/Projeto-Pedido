@@ -354,7 +354,7 @@ o site será hospedado.
 
 - [GitHub](https://github.com/IBrunooDev)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/IBrunooDev/)
+- [Instagram](https://www.instagram.com/bdev.404/)
 ---
 
 Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
