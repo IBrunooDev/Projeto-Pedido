@@ -9,7 +9,7 @@
 | Site | [projeto-lovee.netlify.app/](https://projeto-lovee.netlify.app/) |
 | GitHub | [github.com/IBrunooDev](https://github.com/IBrunooDev) |
 | LinkedIn | [linkedin.com/in/brunocarus](https://www.linkedin.com/in/brunocarus/) |
-| Instagram | [instagram.com/ibrunoodev](https://www.instagram.com/ibrunoodev/) |
+| Instagram | [instagram.com/ibrunoodev](https://www.instagram.com/bdev.404/) |
 
 > Uma experiência web romântica, interativa e responsiva, desenvolvida
 > com HTML5, CSS3 e JavaScript puro.
